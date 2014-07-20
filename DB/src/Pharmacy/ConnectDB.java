@@ -2,7 +2,7 @@ package Pharmacy;
 import java.sql.Connection;
 import java.sql.DriverManager;
 import java.sql.SQLException;
-
+//Connect to database of pharmacy
 public class ConnectDB  {
 
 	static Connection conn = null;
